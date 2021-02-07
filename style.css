@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(228, 157, 181, 0.692);
+}
+#meals{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 30px;
+    padding: 10px;
+    text-align: center;
+    font-size: 70px;
+}
+#meals img{
+    width: 200px;
+    border-radius: 2%;
+  
+}
+.extra{
+    text-align: center;
+    background-image:  linear-gradient(rgba(91, 136, 91, 0.562), rgba(228, 157, 157, 0.479));
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.extra #image{
+    width: 200px;
+  
+}
+
+
+
