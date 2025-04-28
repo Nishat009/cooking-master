@@ -1,29 +1,29 @@
 body{
-    background-color: rgba(228, 157, 181, 0.692);
+    background-color: #F3F3FF;
+}
+.header-1{
+    color: #2c2c2c;
+    margin-top: 50px;
 }
 #meals{
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
-    grid-gap: 30px;
     padding: 10px;
     text-align: center;
     font-size: 70px;
+    cursor: pointer;
 }
 #meals img{
-    width: 200px;
+    width: 100%;
     border-radius: 2%;
-  
+    cursor: pointer;
 }
 .extra{
     text-align: center;
-    background-image:  linear-gradient(rgba(91, 136, 91, 0.562), rgba(228, 157, 157, 0.479));
+    background-image: #ECF0F5;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 .extra #image{
-    width: 200px;
-  
+    width: 50%;
+    border-radius: 2%;
+    cursor: pointer;
 }
-
-
-
