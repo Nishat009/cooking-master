@@ -1,5 +1,6 @@
-﻿# Cooking Master
 live: https://cooking-m.netlify.app/
+ # Cooking Master
+
 A Next.js 16 App Router + React 19 + TypeScript recipe discovery app powered by the same TheMealDB V1 API. The previous design, browser cookbook, search/filter behavior, and recipe features are preserved.
 
 ## Run locally
